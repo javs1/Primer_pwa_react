@@ -8,7 +8,7 @@ function Login(){
     <div class="container h-100">
 		<div class="row d-flex justify-content-center align-items-center h-100">
 			<div class="col-10 col-md-8 col-lg-6 col-xl-5">
-				<div class="card bg-dark text-white login_card" >
+				<div class="card login_card" >
 					<div class="card-body p-5 text-center">
 						<div class="w-100">
 							<h2 class="login_card_title" >Login</h2>					
